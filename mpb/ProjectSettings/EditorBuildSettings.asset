@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/anamen\xFC.unity"
+    guid: d2c514a8531c46f4b8c3d485b1ab46b0
+  - enabled: 1
+    path: Assets/Scenes/bolum1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/bbitis.unity
+    guid: e2efdb029404e344f932d9958be3e7bd
+  - enabled: 1
+    path: Assets/Scenes/bolum2.unity
+    guid: b2883327d37bb0b499b5aebf3937176d
+  - enabled: 1
+    path: Assets/Scenes/bolumbitis2.unity
+    guid: 89ac966f28a42664da8d0cb019538967
+  - enabled: 1
+    path: Assets/Scenes/BOLUMLER.unity
+    guid: f7b3f3a9fd991da42892bd3893fe5941
+  m_configObjects: {}
